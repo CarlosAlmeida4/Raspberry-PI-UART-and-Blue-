@@ -1,6 +1,4 @@
-# Jarvas
-Files used in my Jarvas robot project
+# Raspberry pi UART and Bluetooth
+Files created to use a rfcomm socket and the UART communication in a raspberry pi 
 
-My Jarvas project is a heavy robot with its own network and sensors, I took it apart now but the code in it might be important in a near future so i decided to save it
-
-Not a finished product, just bits and pieces of code here and there
+there´s also code about getting raw data from a keyboard which can be used for other usb products (maybe? :D)
